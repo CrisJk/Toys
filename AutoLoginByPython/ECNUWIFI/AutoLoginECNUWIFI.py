@@ -45,8 +45,8 @@ url = 'https://login.ecnu.edu.cn/include/auth_action.php'
 username = '51175100005'
 password = 'kuang123456'
 postDict = {
-        'username': '51175100005',
-        'password': 'kuang123456',
+        'username': '******',
+        'password': '******',
         'action':'login',
         'ac_id':1
 }
