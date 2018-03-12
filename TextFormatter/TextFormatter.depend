@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1520865117 source:/home/kuangjun/ACM/TextFormatter/main.cpp
+	<iostream>
+	<string>
+
